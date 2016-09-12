@@ -1,0 +1,42 @@
+{
+    "title": "FAQ1",
+    "actionType": "navigation",
+    "data": [
+        {
+            "title": "How to cook jelly",
+            "actionType": "web",
+            "data": "http://google.com"
+        },
+        {
+            "title": "How to cook pasta",
+            "actionType": "web",
+            "data": "http://google.com"
+        },
+        {
+            "title": "Pasta FAQ's",
+            "actionType": "navigation",
+            "data": [
+                {
+                    "title": "Row 1",
+                    "actionType": "web",
+                    "data": "http://red.to"
+                },
+                {
+                    "title": "Row 2",
+                    "actionType": "web",
+                    "data": "http://google.com"
+                },
+                {
+                    "title": "Row 3",
+                    "actionType": "web",
+                    "data": "http://google.com"
+                }
+            ]
+        },
+        {
+            "title": "How to buy pans",
+            "actionType": "web",
+            "data": "http://google.com"
+        }
+    ]
+}
